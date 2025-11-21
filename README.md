@@ -1,5 +1,7 @@
 # Ambulance Dispatch Optimization  
 
+This project spans Sep 2025 - Apr 2026 and is actively developing
+
 ---
 
 ## Introduction
